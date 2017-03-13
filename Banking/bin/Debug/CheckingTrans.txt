@@ -1,0 +1,13 @@
+Client Name: Checking withdrawal Account Number:100000001-20 Current Balance: $780.00Time3/13/2017 3:02:05 PM
+Client Name: Checking withdrawal Account Number:100000001-20 Current Balance: $780.00Time3/13/2017 3:02:39 PM
+Client Name: Checkingdeposit Account Number:100000001+20 Current Balance: $820.00Time3/13/2017 3:19:19 PM
+Client Name: Checkingdeposit Account Number:100000001+20 Current Balance: $820.00Time3/13/2017 3:19:19 PM
+Client Name: Checkingdeposit Account Number:100000001+20 Current Balance: $840.00Time3/13/2017 3:19:36 PM
+Client Name: Checking withdrawal Account Number:100000001-20 Current Balance: $780.00Time3/13/2017 3:33:48 PM
+Client Name: Checkingdeposit Account Number:100000001+50 Current Balance: $850.00Time3/13/2017 3:37:58 PM
+Client Name: Checkingdeposit Account Number:100000001+500 Current Balance: $1300.00Time3/13/2017 3:49:57 PM
+Client Name: Checking withdrawal Account Number:100000001-20 Current Balance: $780.00Time3/13/2017 4:29:12 PM
+Client Name: Checkingdeposit Account Number:100000001+40 Current Balance: $840.00Time3/13/2017 4:39:04 PM
+Client Name: Sharon ParksCheckingdeposit Account Number:100000001+80 Current Balance: $880.00Time3/13/2017 4:55:54 PM
+Client Name: Sharon ParksCheckingdeposit Account Number:100000001+80 Current Balance: $880.00Time3/13/2017 4:55:54 PM
+Client Name: Sharon ParksChecking withdrawal Account Number:100000001-20 Current Balance: $860.00Time3/13/2017 4:56:07 PM
